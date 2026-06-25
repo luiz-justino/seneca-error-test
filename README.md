@@ -7,9 +7,6 @@
 [![build](https://github.com/senecajs/seneca-error-test/actions/workflows/build.yml/badge.svg)](https://github.com/senecajs/seneca-error-test/actions/workflows/build.yml)
 [![Known Vulnerabilities](https://snyk.io/test/github/senecajs/seneca-error-test/badge.svg)](https://snyk.io/test/github/senecajs/seneca-error-test)
 
-
-
-
 | ![Voxgig](https://www.voxgig.com/res/img/vgt01r.png) | This open source module is sponsored and supported by [Voxgig](https://www.voxgig.com). |
 |---|---|
 
@@ -58,5 +55,4 @@ npm run test
 ## Background
 
 Used by the Seneca core team to verify error handling behavior.
-
 
