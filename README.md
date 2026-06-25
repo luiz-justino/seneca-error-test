@@ -3,7 +3,7 @@
 
 # @seneca/error-test
 
-[![npm version](https://img.shields.io/npm/v/@seneca/error-test.svg)](https://npmjs.com/package/@seneca/error-test)
+[![npm version](https://img.shields.io/npm/v/seneca-error-test.svg)](https://npmjs.com/package/seneca-error-test)
 [![build](https://github.com/senecajs/seneca-error-test/actions/workflows/build.yml/badge.svg)](https://github.com/senecajs/seneca-error-test/actions/workflows/build.yml)
 [![Known Vulnerabilities](https://snyk.io/test/github/senecajs/seneca-error-test/badge.svg)](https://snyk.io/test/github/senecajs/seneca-error-test)
 
@@ -35,8 +35,10 @@ Utility plugin for testing error handling in Seneca microservices.
 
 If you're using this module and need help, you can:
 
-- Post a [github issue][]
-- Tweet to [@senecajs][]
+- Post a [github issue](https://github.com/senecajs/seneca-error-test/issues)
+- Tweet to [@senecajs](http://twitter.com/senecajs)
+- Ask on the [Gitter](https://gitter.im/senecajs/seneca)
+
 
 ## API
 
