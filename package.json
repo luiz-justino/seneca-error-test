@@ -1,10 +1,9 @@
 {
-  "name": "seneca-error-test",
+  "name": "@seneca/error-test",
   "version": "0.2.1",
   "description": "Seneca error test.",
   "main": "error-test.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/senecajs/seneca-error-test"
@@ -19,8 +18,7 @@
     "Richard Rodger (http://richardrodger.com)"
   ],
   "license": "MIT",
-  "dependencies": {
-  },
+  "dependencies": {},
   "files": [
     "LICENSE.txt",
     "README.md",
