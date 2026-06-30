@@ -14,14 +14,14 @@
 
 ```sh
 npm install seneca-error-test
-```
+```js
 
 ## Quick Example
 
 ```js
 require('seneca')()
   .use('seneca-error-test')
-```
+```js
 
 ## More Examples
 
@@ -52,7 +52,7 @@ The [Senecajs org][] encourages open participation. If you feel you can help in 
 
 ```sh
 npm run test
-```
+```js
 
 ## Background
 
