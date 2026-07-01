@@ -12,17 +12,15 @@
 
 ## Install
 
-```sh
+```
 npm install seneca-error-test
-```js
-
+```
 ## Quick Example
 
-```js
+```
 require('seneca')()
   .use('seneca-error-test')
-```js
-
+```
 ## More Examples
 
 See [test/](test/) for usage examples.
@@ -50,10 +48,9 @@ The [Senecajs org][] encourages open participation. If you feel you can help in 
 
 ### Running tests
 
-```sh
+```
 npm run test
-```js
-
+```
 ## Background
 
 Used by the Seneca core team to verify error handling behavior.
